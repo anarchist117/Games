@@ -6,3 +6,4 @@
 | ![](Images/Slime/Tabby_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Stony_Hen.webp) | ![](Images/Toys/Yarn_Ball.webp) |
 | ![](Images/Slime/Boom_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Briar_Hen.webp) | ![](Images/Toys/Bomb_Ball.webp) |
 | ![](Images/Slime/Phosphor_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Cuberry.webp) | ![](Images/Toys/Night_Light.webp) |
+| ![](Images/Slime/Honey_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Mint_Mango.webp) | ![](Images/Toys/Buzzy_Bee.webp) |
