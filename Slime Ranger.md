@@ -17,9 +17,7 @@
 | ![](Images/Slime/Hunter_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Roostro.webp) | ![](Images/Toys/Stuffed_Chicken.webp) |
 | ![](Images/Slime/Tangle_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Painted_Hen.webp) | ![](Images/Toys/Sol_Mate.webp) |
 | ![](Images/Slime/Saber_Slime.webp) | ![](Images/Food/Meat.webp) | — | ![](Images/Toys/Stego_Buddy.webp) |
-|  |  |  |  |
-| ![](Images/Slime/Puddle_Slime.webp) | ![](Images/Food/Water.webp) | — | ![](Images/Toys/Rubber_Ducky.webp) |
-| ![](Images/Slime/Fire_Slime.webp) | ![](Images/Food/Ash.webp) | — | ![](Images/Toys/Charcoal_Brick.webp) |
+
 
 
 
