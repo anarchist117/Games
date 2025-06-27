@@ -15,8 +15,6 @@
 | ![](Images/Slime/Mosaic_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Silver_Parsnip.webp) | ![](Images/Toys/Disco_Ball.webp) |
 | ![](Images/Slime/Tangle_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Painted_Hen.webp) | ![](Images/Toys/Sol_Mate.webp) |
 | ![](Images/Slime/Saber_Slime.webp) | ![](Images/Food/Meat.webp) | — | ![](Images/Toys/Stego_Buddy.webp) |
-
-| Slime | Diet | Favorite | Toys |
-| --- | --- | --- | --- |
+|  |  |  |  |
 | ![](Images/Slime/Puddle_Slime.webp) | ![](Images/Food/Water.webp) | — | ![](Images/Toys/Rubber_Ducky.webp) |
 | ![](Images/Slime/Fire_Slime.webp) | ![](Images/Food/Ash.webp) | — | ![](Images/Toys/Charcoal_Brick.webp) |
