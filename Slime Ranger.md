@@ -1,5 +1,5 @@
 | Slime | Diet | Favorite | Toys |
 | --- | --- | --- | --- |
-| ![Pink](Images/Pink_Slime.webp) | ![All](Images/All.webp) | - | ![Beach Ball](Images/Beach_Ball.webp) |
-| Rock | Veggie | Heart Beet | Big Rock |
+| ![Pink](Images/Slime/Pink_Slime.webp) | ![All](Images/Food/All.webp) | - | ![Beach Ball](Images/Toys/Beach_Ball.webp) |
+| ![Rock](Images/Slime/Rock_Slime.webp) | Veggie | Heart Beet | Big Rock |
 
