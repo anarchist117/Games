@@ -1,6 +1,6 @@
 | Slime | Diet | Favorite | Toys |
 | --- | --- | --- | --- |
-| ![](Images/Slime/Pink_Slime.webp) | ![All](Images/Food/All.webp) | — | ![Beach Ball](Images/Toys/Beach_Ball.webp) |
+| ![](Images/Slime/Pink_Slime.webp) ![](Images/Slime/Pink_Slime_Secret_Style.webp) | ![All](Images/Food/All.webp) | — | ![Beach Ball](Images/Toys/Beach_Ball.webp) |
 |  |  |  |  |
 | ![](Images/Slime/Rock_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Heart_Beet.webp) | ![](Images/Toys/Big_Rock.webp) |
 | ![](Images/Slime/Rad_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Oca_Oca.webp) | ![](Images/Toys/Power_Cell.webp) |
