@@ -1,6 +1,7 @@
 |  | Plots | Gadget | Resources |
 | --- | --- | --- | --- |
 | ![](Images/Locations/The_Ranch.webp) | 8 | 27 | — |
+|  |  |  |  |
 | ![](Images/Locations/The_Grotto.webp) | 5 | 11 | — |
 | ![](Images/Locations/The_Overgrowth.webp) | 4 | 12 | ![](Images/Resources/Carrot.webp) ![](Images/Resources/Pogo_fruit.webp) ![](Images/Resources/Hen_hen.webp) |
 | ![](Images/Locations/The_Lab.webp) | 5 | 15 | — |
