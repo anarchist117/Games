@@ -1,4 +1,4 @@
-|  | Plots | Gadget | Resources |
+|  | Plots | Gadgets | Resources |
 | --- | :---: | :---: | --- |
 | ![](Images/Locations/The_Ranch.webp) | 8 | 27 | — |
 |  |  |  |  |
