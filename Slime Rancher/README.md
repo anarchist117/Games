@@ -7,7 +7,7 @@
 | ![](Images/Slime/Phosphor_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Cuberry.webp) | ![](Images/Toys/Night_Light.webp) | ![](Images/Locations/The_Grotto.webp) |
 | ![](Images/Slime/Honey_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Mint_Mango.webp) | ![](Images/Toys/Buzzy_Bee.webp) |  |
 | ![](Images/Slime/Quantum_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Phase_Lemon.webp) | ![](Images/Toys/Puzzle_Cube.webp) |  |
-| ![](Images/Slime/Dervish_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Prickle_Pear.webp) | ![](Images/Toys/Gyro_Top.webp) |  |
+| ![](Images/Slime/Dervish_Slime.webp) ![](Images/Slime/Tangle_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Prickle_Pear.webp) | ![](Images/Toys/Gyro_Top.webp) ![](Images/Toys/Sol_Mate.webp) |  |
 |  |  |  |  |  |
 | ![](Images/Slime/Puddle_Slime.webp) | ![](Images/Food/Water.webp) | — | ![](Images/Toys/Rubber_Ducky.webp) | ![](Images/Locations/The_Docks.webp) |
 | ![](Images/Slime/Fire_Slime.webp) | ![](Images/Food/Ash.webp) | — | ![](Images/Toys/Charcoal_Brick.webp) | ![](Images/Locations/The_Overgrowth.webp) |
@@ -21,5 +21,4 @@
 | ![](Images/Slime/Tabby_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Stony_Hen.webp) | ![](Images/Toys/Yarn_Ball.webp) |
 | ![](Images/Slime/Boom_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Briar_Hen.webp) | ![](Images/Toys/Bomb_Ball.webp) |
 | ![](Images/Slime/Hunter_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Roostro.webp) | ![](Images/Toys/Stuffed_Chicken.webp) |
-| ![](Images/Slime/Tangle_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Painted_Hen.webp) | ![](Images/Toys/Sol_Mate.webp) |
 | ![](Images/Slime/Saber_Slime.webp) | ![](Images/Food/Meat.webp) | — | ![](Images/Toys/Stego_Buddy.webp) |
