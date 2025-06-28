@@ -1,7 +1,7 @@
 | Slime | Diet | Favorites | Toys | Locations | 
 | :---: | :---: | :---: | :---: | :---: |
 | ![](Images/Slime/Pink_Slime.webp) ![](Images/Slime/Rock_Slime.webp) | ![All](Images/Food/All.webp) | ![](Images/Favorites/Heart_Beet.webp) | ![Beach Ball](Images/Toys/Beach_Ball.webp) ![](Images/Toys/Big_Rock.webp) |  |
-| ![](Images/Slime/Rad_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Oca_Oca.webp) | ![](Images/Toys/Power_Cell.webp) |  |
+| ![](Images/Slime/Rad_Slime.webp) ![](Images/Slime/Boom_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Oca_Oca.webp) | ![](Images/Toys/Power_Cell.webp) ![](Images/Toys/Bomb_Ball.webp) |  |
 | ![](Images/Slime/Mosaic_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Silver_Parsnip.webp) | ![](Images/Toys/Disco_Ball.webp) |  |
 |  |  |  |  |  |
 | ![](Images/Slime/Phosphor_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Cuberry.webp) | ![](Images/Toys/Night_Light.webp) | ![](Images/Locations/The_Grotto.webp) |
@@ -19,6 +19,5 @@
 | ![](Images/Slime/Crystal_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Odd_Onion.webp) | ![](Images/Toys/Crystal_Ball.webp) |
 |  |  |  |  |
 | ![](Images/Slime/Tabby_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Stony_Hen.webp) | ![](Images/Toys/Yarn_Ball.webp) |
-| ![](Images/Slime/Boom_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Briar_Hen.webp) | ![](Images/Toys/Bomb_Ball.webp) |
 | ![](Images/Slime/Hunter_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Roostro.webp) | ![](Images/Toys/Stuffed_Chicken.webp) |
 | ![](Images/Slime/Saber_Slime.webp) | ![](Images/Food/Meat.webp) | — | ![](Images/Toys/Stego_Buddy.webp) |
