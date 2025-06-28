@@ -1,4 +1,4 @@
-| Slime | Diet | Favorite | Toy | Location | 
+| Slime | Diet | Favorites | Toys | Locations | 
 | :---: | :---: | :---: | :---: | :---: |
 | ![](Images/Slime/Pink_Slime.webp) ![](Images/Slime/Rock_Slime.webp) | ![All](Images/Food/All.webp) | ![](Images/Favorites/Heart_Beet.webp) | ![Beach Ball](Images/Toys/Beach_Ball.webp) ![](Images/Toys/Big_Rock.webp) |  |
 | ![](Images/Slime/Rad_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Oca_Oca.webp) | ![](Images/Toys/Power_Cell.webp) |  |
@@ -8,6 +8,10 @@
 | ![](Images/Slime/Honey_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Mint_Mango.webp) | ![](Images/Toys/Buzzy_Bee.webp) |  |
 | ![](Images/Slime/Quantum_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Phase_Lemon.webp) | ![](Images/Toys/Puzzle_Cube.webp) |  |
 | ![](Images/Slime/Dervish_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Prickle_Pear.webp) | ![](Images/Toys/Gyro_Top.webp) |  |
+|  |  |  |  |  |
+| ![](Images/Slime/Puddle_Slime.webp) | ![](Images/Food/Water.webp) | — | ![](Images/Toys/Rubber_Ducky.webp) | ![](Images/Locations/The_Docks.webp) |
+| ![](Images/Slime/Fire_Slime.webp) | ![](Images/Food/Ash.webp) | — | ![](Images/Toys/Charcoal_Brick.webp) | ![](Images/Locations/The_Overgrowth.webp) |
+
 
 | Slime | Diet | Favorite | Toys |
 | :---: | :---: | :---: | :---: |
