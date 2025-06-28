@@ -1,5 +1,5 @@
 |  | Plots | Gadget | Resources |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | --- |
 | ![](Images/Locations/The_Ranch.webp) | 8 | 27 | — |
 |  |  |  |  |
 | ![](Images/Locations/The_Grotto.webp) | 5 | 11 | — |
