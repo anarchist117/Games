@@ -1,5 +1,5 @@
 |  | Slime | Diet | Favorite | Toys |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | 1 | ![](Images/Slime/Pink_Slime.webp) | ![All](Images/Food/All.webp) | — | ![Beach Ball](Images/Toys/Beach_Ball.webp) |
 | 2 | ![](Images/Slime/Rock_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Heart_Beet.webp) | ![](Images/Toys/Big_Rock.webp) |
 | 3 | ![](Images/Slime/Tabby_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Stony_Hen.webp) | ![](Images/Toys/Yarn_Ball.webp) |
