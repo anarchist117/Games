@@ -2,5 +2,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![](Images/Extractors/MasterDrill.webp) | ![All](Images/Plorts/PlortPINK.webp) ![All](Images/Plorts/PlortRAD.webp) ![All](Images/Plorts/PlortMOSAIC.webp) | ![All](Images/Resources/Jellystone.webp) ![All](Images/Resources/SlimeFossil.webp) ![All](Images/Resources/StrangeDiamond.webp) | ![](Images/Resources/Indigonium.webp) | ![](Images/Resources/Echoes.webp) | ![](Images/Resources/Glass_Shard.webp) |
 
+| ![](Images/Extractors/MasterPump.webp) | ![All](Images/Plorts/PlortPINK.webp) ![All](Images/Plorts/PlortBOOM.webp) ![All](Images/Plorts/PlortDERVISH.webp) | ![All](Images/Resources/PrimordyOil.webp) ![All](Images/Resources/SpiralSteam.webp) ![All](Images/Resources/LavaDust.webp) | ![](Images/Resources/Indigonium.webp) | ![](Images/Resources/Echoes.webp) | ![](Images/Resources/Glass_Shard.webp) |
+
 
 
