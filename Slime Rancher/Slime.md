@@ -16,6 +16,3 @@
 | 14 | ![](Images/Slime/Tangle_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Painted_Hen.webp) | ![](Images/Toys/Sol_Mate.webp) |
 | 15 | ![](Images/Slime/Mosaic_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Silver_Parsnip.webp) | ![](Images/Toys/Disco_Ball.webp) |
 | 16 | ![](Images/Slime/Saber_Slime.webp) | ![](Images/Food/Meat.webp) | — | ![](Images/Toys/Stego_Buddy.webp) |
-
-
-
