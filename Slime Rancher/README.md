@@ -9,6 +9,6 @@
 | ![](Images/Slime/Quantum_Slime.webp) ![](Images/Slime/Hunter_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Phase_Lemon.webp) | ![](Images/Toys/Puzzle_Cube.webp) ![](Images/Toys/Stuffed_Chicken.webp) | ![](Images/Locations/The_Ranch.webp) |
 | ![](Images/Slime/Dervish_Slime.webp) ![](Images/Slime/Tangle_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Prickle_Pear.webp) | ![](Images/Toys/Gyro_Top.webp) ![](Images/Toys/Sol_Mate.webp) | ![](Images/Locations/The_Ranch.webp) |
 |  |  |  |  |  |
-| ![](Images/Slime/Puddle_Slime.webp) | ![](Images/Food/Water.webp) | — | ![](Images/Toys/Rubber_Ducky.webp) | ![](Images/Locations/The_Docks.webp) |
+| ![](Images/Slime/Puddle_Slime.webp) | ![](Images/Food/Water.webp) | — | ![](Images/Toys/Rubber_Ducky.webp) | ![](Images/Locations/The_Overgrowth.webp) |
 | ![](Images/Slime/Fire_Slime.webp) | ![](Images/Food/Ash.webp) | — | ![](Images/Toys/Charcoal_Brick.webp) | ![](Images/Locations/The_Overgrowth.webp) |
 
