@@ -8,14 +8,14 @@
 |  6 | ![](Images/Slime/Rock_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Heart_Beet.webp) | — |
 |  7 |  |  |  |  |
 |  8 |  |  |  |  |
-|  9 |  |  |  |  |
+|  9 | ![](Images/Slime/Ringtail_Slime.webp) | ![](Images/Food/All.webp) | — | ![](Images/Toys/Trashcan.webp) |
 | 10 |  |  |  |  |
-| 11 |  |  |  |  |
+| 11 | ![](Images/Slime/Honey_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Mint_Mango.webp) | — |
 | 12 |  |  |  |  |
 | 13 |  |  |  |  |
 | 14 |  |  |  |  |
 | 15 |  |  |  |  |
-| 16 |  |  |  |  |
+| 16 | ![](Images/Slime/Lucky_Slime.webp) | ![All](Images/Food/Meat.webp) | — | — |
 | 17 |  |  |  |  |
 | 18 |  |  |  |  |
 | 19 |  |  |  |  |
