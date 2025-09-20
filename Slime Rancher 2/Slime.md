@@ -18,7 +18,7 @@
 | 16 | ![](Images/Slime/Lucky_Slime.webp) | ![All](Images/Food/Meat.webp) | — | — |
 | 17 |  |  |  |  |
 | 18 |  |  |  |  |
-| 19 | ![](Images/Slime/Tangle_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Sea_Hen.webp) | ![](Images/Toys/Plushie_Puffer_Fish.webp) |
+| 19 | ![](Images/Slime/Tangle_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Painted_Hen.webp) | ![](Images/Toys/Plushie_Puffer_Fish.webp) |
 | 20 |  |  |  |  |
 | 21 | ![](Images/Slime/Yolky_Slime.webp) | — | — | — |
 | 22 |  |  |  |  |
