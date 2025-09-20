@@ -7,20 +7,20 @@
 |  5 | ![](Images/Slime/Angler_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Sea_Hen.webp) | ![](Images/Toys/Plushie_Puffer_Fish.webp) |
 |  6 | ![](Images/Slime/Rock_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Heart_Beet.webp) | — |
 |  7 |  |  |  |  |
-|  8 | ![](Images/Slime/Flutter_Slime.webp) | ![](Images/Favorites/Nectar.webp) | ![](Images/Favorites/Nectar.webp) | ![](Images/Toys/Glowbug.webp) |
+|  8 | ![](Images/Slime/Flutter_Slime.webp) | ![](Images/Food/Nectar.webp) | ![](Images/Favorites/Nectar.webp) | ![](Images/Toys/Glowbug.webp) |
 |  9 | ![](Images/Slime/Ringtail_Slime.webp) | ![](Images/Food/All.webp) | — | ![](Images/Toys/Trashcan.webp) |
 | 10 |  |  |  |  |
 | 11 | ![](Images/Slime/Honey_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Mint_Mango.webp) | — |
-| 12 |  |  |  |  |
+| 12 | ![](Images/Slime/Flutter_Slime.webp) | ![](Images/Food/Water.webp) | — | ![](Images/Toys/Rubber_Ducky.webp) |
 | 13 |  |  |  |  |
 | 14 |  |  |  |  |
 | 15 |  |  |  |  |
 | 16 | ![](Images/Slime/Lucky_Slime.webp) | ![All](Images/Food/Meat.webp) | — | — |
 | 17 |  |  |  |  |
 | 18 |  |  |  |  |
-| 19 |  |  |  |  |
+| 19 | ![](Images/Slime/Tangle_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Sea_Hen.webp) | ![](Images/Toys/Plushie_Puffer_Fish.webp) |
 | 20 |  |  |  |  |
-| 21 |  |  |  |  |
+| 21 | — | — | — | — |
 | 22 |  |  |  |  |
 | 23 |  |  |  |  |
 | 24 |  |  |  |  |
