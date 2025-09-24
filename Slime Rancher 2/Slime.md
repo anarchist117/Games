@@ -12,7 +12,7 @@
 | 10 |  |  |  |  |
 | 11 | ![](Images/Slime/Honey_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Mint_Mango.webp) | — |
 | 12 | ![](Images/Slime/Flutter_Slime.webp) | ![](Images/Food/Water.webp) | — | ![](Images/Toys/Rubber_Ducky.webp) |
-| 13 |  |  |  |  |
+| 13 | ![](Images/Slime/Crystal_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Odd_Onion.webp) | — |
 | 14 | ![](Images/Slime/Hunter_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Roostro.webp) | — |
 | 15 |  |  |  |  |
 | 16 | ![](Images/Slime/Lucky_Slime.webp) | ![All](Images/Food/Meat.webp) | — | — |
