@@ -6,7 +6,7 @@
 |  4 | ![](Images/Slime/Phosphor_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Cuberry.webp) | — |
 |  5 | ![](Images/Slime/Angler_Slime.webp) | ![](Images/Food/Meat.webp) | ![](Images/Favorites/Sea_Hen.webp) | ![](Images/Toys/Plushie_Puffer_Fish.webp) |
 |  6 | ![](Images/Slime/Rock_Slime.webp) | ![](Images/Food/Veggie.webp) | ![](Images/Favorites/Heart_Beet.webp) | — |
-|  7 |  |  |  |  |
+|  7 | ![](Images/Slime/Batty_Slime.webp) | ![](Images/Food/Fruit.webp) | ![](Images/Favorites/Pomegranite.webp) | ![](Images/Toys/Full_Moon_Ball.webp) |
 |  8 | ![](Images/Slime/Flutter_Slime.webp) | ![](Images/Food/Nectar.webp) | ![](Images/Food/Nectar.webp) | ![](Images/Toys/Glowbug.webp) |
 |  9 | ![](Images/Slime/Ringtail_Slime.webp) | ![](Images/Food/All.webp) | — | ![](Images/Toys/Trashcan.webp) |
 | 10 |  |  |  |  |
